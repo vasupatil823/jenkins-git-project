@@ -4,5 +4,7 @@ public class JenkinsTest {
 public static void main(String[] args) {
 	System.out.println("Today date is :: " + new Date());
 	System.out.println("This is a code in git repository");
+	System.out.println("Added new line");
+	System.out.println("Added new line2");
 }
 }
